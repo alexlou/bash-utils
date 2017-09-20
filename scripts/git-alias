@@ -1,0 +1,3 @@
+alias lola="git log --graph --decorate --pretty=oneline --abbrev-commit --all"
+alias lol="git log --graph --decorate --pretty=oneline --abbrev-commit"
+
